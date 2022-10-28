@@ -97,6 +97,7 @@
             Psi = 0;
             PercentualBorracha = 0;
             Rotacao = 0;
+
         }
         public void Exibir()
         {
